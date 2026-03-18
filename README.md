@@ -1,4 +1,4 @@
-# One-Stop Personalized Career & Education Advisor
+# Career Guidance Platfrom
 
 An AI-powered web platform designed to help students choose the right stream, course, and career path after Class 10/12.
 
